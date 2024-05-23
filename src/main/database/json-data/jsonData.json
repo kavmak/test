@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "_id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "password": "password123",
+      "role": "consumer"
+    },
+    {
+      "_id": 2,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "password": "password123",
+      "role": "consumer"
+    },
+    {
+      "_id": 3,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "password": "password123",
+      "role": "consumer"
+    },
+    {
+      "_id": 4,
+      "name": "c",
+      "email": "c",
+      "password": "c",
+      "role": "consumer"
+    },
+    {
+      "_id": 5,
+      "name": "hhhhhhhhhhh",
+      "email": "hhhhhhhhhhh",
+      "password": "hhhhhhhhhhhhhh",
+      "role": "admin"
+    }
+  ]
+}
